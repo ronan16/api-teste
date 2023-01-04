@@ -9,7 +9,7 @@ app.get("/produtos", (req, res) => {
 })
 
 app.get("/", (req, res) => {
-    return res.send("<h1>Voce é Super pessoinhas</h1>")
+    return res.send("<h1>Bem vindo ao PROGRAMA DO SILVIO SANTOS</h1>")
 })
 
 app.listen(port, ()  =>{
