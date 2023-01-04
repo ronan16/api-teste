@@ -1,0 +1,9 @@
+{
+  "functions": {
+    "targets": [
+      "api_ronan_function"
+    ],
+    "ignore": [],
+    "source": "functions"
+  }
+}

@@ -1,0 +1,10 @@
+{
+	"deployment": {
+		"name": "api_ronan_function",
+		"stack": "node16",
+		"type": "basicio"
+	},
+	"execution": {
+		"main": "index.js"
+	}
+}

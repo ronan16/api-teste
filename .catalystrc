@@ -1,0 +1,29 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "14897000000003013",
+      "name": "api-ronan",
+      "domain": {
+        "id": "10051611944",
+        "name": "api-ronan-799726947.development"
+      },
+      "env": [
+        {
+          "idx": 1,
+          "id": "799726947",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
